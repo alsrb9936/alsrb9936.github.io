@@ -3,7 +3,7 @@ main:
   - title: "기록"
     url: /record/
   - title: "카테고리"
-    url: /categorise/
+    url: /categories/
   - title: "년도별"
     url: /year-archive/
   # - title: "Sample Collections"
