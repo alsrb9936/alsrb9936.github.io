@@ -1,9 +1,7 @@
 ---
 title: "GithubBlog setup 성공 후 테스트 포스팅"
-layout: posts
 categories: testing
 tags: none
-date: {{ page.date | date_to_xmlschema }}
 ---
 
 # 포스팅 테스트
