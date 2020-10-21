@@ -10,14 +10,14 @@ tags: none
 
 
 
-'''cpp
+```cpp
 #include<stdio.h>
 
 int main(){
 	printf("hello");
 	return 0;
 } 
-'''
+```
 
 ## 오늘의 한 일
 
