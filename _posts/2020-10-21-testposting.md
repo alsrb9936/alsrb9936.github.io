@@ -1,5 +1,6 @@
 ---
 title: "GithubBlog setup 성공 후 테스트 포스팅"
+date: 2020-10-20 08:26:28 -0400
 categories: testing
 tags: none
 toc: true
