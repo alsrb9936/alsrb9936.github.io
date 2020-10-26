@@ -2,6 +2,9 @@
 title: "GithubBlog setup 성공 후 테스트 포스팅"
 categories: testing
 tags: none
+toc: true
+toc_sticky: true
+author_profile: false
 ---
 
 # 포스팅 테스트
