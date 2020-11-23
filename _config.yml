@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "민규의 개발 블로그"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "21-11-13"
 name                     : "JangMinGyu"
 description              : "기록용 입니다"
 url                      : "https://alsrb9936.github.io"
