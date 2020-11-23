@@ -36,15 +36,15 @@ author_profile: false
 레벨3이 그럭저럭 실력 체크하기에는 적당하지 않을까 싶다. 그 외에는 자바를 이용해서 원하는 기능을 구현할 수있는 실력 만들기, 마찬가지로 웹 프로그래밍으로 원하는 기능 구현, 데이터베이스 공부, 자료구조, 알고리즘 공부 하기다.
 
 
-<img src="/assets/images/javaicon.png"title="java" alt="자바아이콘"/>
+<img src="/assets/images/javaicon.png" title="java" alt="자바아이콘"/>
 
 <img src="/assets/images/webicon.png" width="50%" height="50%" title="HtmlJSCSS" alt="Html,JS,CSS아이콘"/> 
 
-<img src="/assets/images/databaseicon.png" width="70%" height="70%" title="database" alt="데이터베이스도식이미지"/> 
+<img src="/assets/images/databaseicon.png" width="40%" height="40%" title="database" alt="데이터베이스도식이미지"/> 
 
-<img src="/assets/images/datastucicon.png" width="50%" height="50%" title="database" alt="자료구조도식이미지"/> 
+<img src="/assets/images/datastrucicon.png" width="50%" height="50%" title="database" alt="자료구조도식이미지"/> 
 
-<img src="/assets/images/Algolithmicon.png" width="50%" height="50%" title="Algolithm" alt="알고리즘도식이미지"/> 
+<img src="/assets/images/Algorithmicon.png" width="50%" height="50%" title="Algolithm" alt="알고리즘도식이미지"/> 
  
 # 4. 계획세우기
 
