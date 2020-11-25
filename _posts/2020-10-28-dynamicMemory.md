@@ -1,11 +1,8 @@
 ---
 title: "[C언어] 동적 메모리 할당"
+excerpt: "C언어 정리..."
 date: 2020-10-28 08:26:28 -0400
 categories: C언어
-tags:
-  - 동적메모리
-  - C언어 문법
-  - 언어 공부
 toc: true
 toc_sticky: true
 author_profile: false
