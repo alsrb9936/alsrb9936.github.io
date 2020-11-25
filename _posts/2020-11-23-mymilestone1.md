@@ -1,11 +1,11 @@
 ---
 title: "[공부일지]남은 군생활을 어떻게 보낼 것인가?"
+excerpt: "알찬 군생활을 위해 계획을 "
 date: 2020-11-23 22:46:28 -0400
 categories: 공부일지
 tags: 
   - 계획
   - 일상
-toc: flase
 author_profile: false
 ---
 
