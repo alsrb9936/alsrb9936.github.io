@@ -5,8 +5,7 @@ categories: 공부일지
 tags: 
   - 계획
   - 일상
-toc: true
-toc_sticky: true
+toc: flase
 author_profile: false
 ---
 
